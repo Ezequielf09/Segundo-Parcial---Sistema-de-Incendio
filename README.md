@@ -145,6 +145,6 @@ void encendido() {
 }
 ```
 ### Link del proyecto
-[tinkercard.com](https://www.tinkercad.com/things/axQ3Jpdl72C "Link al arduino")
+[tinkercad.com](https://www.tinkercad.com/things/axQ3Jpdl72C "Link al arduino")
 
 
